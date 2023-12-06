@@ -1,5 +1,5 @@
 ---
-displayName: Python
+displayName: Python-custom
 description: Python Stack with Python 3.8
 tags: ["Community", "Centos", "Python", "pip"]
 icon: /images/python.svg
