@@ -1,7 +1,7 @@
 ---
-displayName: Java Spring Boot
+displayName: Java Spring Boot Modified for IntelliJ
 description: Java stack with OpenJDK 11 and Spring Boot Petclinic demo application
 tags: ["Community", "Java", "OpenJDK", "Maven", "Spring Boot"]
 icon: /images/springboot.svg
 links:
-  v2: https://github.com/che-samples/java-spring-petclinic/tree/main
+  v2: https://github.com/debkantap/java-spring-petclinic-modified/tree/main
